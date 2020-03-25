@@ -1,2 +1,4 @@
 # MAHE-Attache
-A quick and simple Chrome extension for key student links. Developed for Manipal University students
+A _quick_ and _simple_ _**Chrome extension**_ for key student links.
+
+Developed for _Manipal University_ students.
